@@ -38,7 +38,7 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   KSAdSDK: d7a3301bda6a199702fed4c17ab2b703342d4056
-  MYAdSDK: c2927b1f628a56acd5c31183cdeccc452e6f0415
+  MYAdSDK: fdd8d9f4a4a0bf8c4dd742e169f4d9d3ab8a065d
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
 
 PODFILE CHECKSUM: dc2ad086df989fcd615b907e2edb49f7fa1a6f5f
