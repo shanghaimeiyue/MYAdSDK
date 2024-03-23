@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "TempObjc.h"
 
 FOUNDATION_EXPORT double MYAdSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char MYAdSDKVersionString[];
